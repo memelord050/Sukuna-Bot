@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918473959399', 'SUKUNA', true],
-  ['918822357603', 'GOJO', true], 
+  ['0712155147', 'Memelord', true],
+  ['0706600265', 'Joel', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['918473959399','918822357603','918805226594','919370480532'] 
-global.prems = ['918473959399','918822357603','918805226594','919370480532']
+global.mods = ['0712155147','0712155147','0712155147','0712155147'] 
+global.prems = ['0712155147','0712155147','0712155147','0712155147']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,15 +47,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙎𝙪𝙠𝙪𝙣𝙖 𝘽𝙤𝙩'
+global.botname = 'Memelord 𝘽𝙤𝙩'
 global.premium = 'true'
-global.packname = 'Sukuna┃ᴮᴼᵀ' 
-global.author = '𝘽𝙮: 𝙏𝙚𝙖𝙢 𝙒𝙝𝙖𝙩𝙨 𝘽𝙤𝙩' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/xaps444\n' 
+global.packname = 'Memelord┃ᴮᴼᵀ' 
+global.author = '𝘽𝙮: Memelord050' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/memelord4678\n' 
 global.dygp = 'https://chat.whatsapp.com/FWZwvQBG40pI4KyQ2lEdTr'
-global.fgsc = 'https://github.com/RSxGamerz/Sukuna-Bot' 
-global.fgyt = 'https://youtube.com/@motivation_in_quotes'
-global.fgpyp = 'https://youtube.com/@xcn_'
+global.fgsc = 'https://github.com/memelord050' 
+global.fgyt = 'https://youtube.com/@srbianking6989'
+global.fgpyp = 'https://youtube.com/srbianking6989'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 
